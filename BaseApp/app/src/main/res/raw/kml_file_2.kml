@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>kml file 2</name>
+	<description>marker by kml file 2</description>
+	<gx:CascadingStyle kml:id="__managed_style_24D8812A5029016F7289">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_15026A5D9229016F7289">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0B7F49F8DD29016F7289">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15026A5D9229016F7289</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_24D8812A5029016F7289</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="00532D2B4129016E252A">
+		<name>from kml file2: lebanon</name>
+		<description><![CDATA[<p style="border: 0px solid rgb(217, 217, 227); box-sizing: border-box; margin: 0px 0px 1.25em; color: rgb(209, 213, 219); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &quot;Segoe UI&quot;, Roboto, Ubuntu, Cantarell, &quot;Noto Sans&quot;, sans-serif, &quot;Helvetica Neue&quot;, Arial, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: pre-wrap; widows: 2; word-spacing: 0px; background-color: rgb(68, 70, 84); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">Lebanon is a country located in the Middle East, bordered by Syria to the north and east ,and the Mediterranean Sea to the west. Its capital and largest city is Beirut.<br></p><div><br></div>]]></description>
+		<LookAt>
+			<longitude>37.7757339393803</longitude>
+			<latitude>31.82606781713966</latitude>
+			<altitude>854.3804988811551</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30.00003237782245</gx:fovy>
+			<range>1155356.699946374</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B7F49F8DD29016F7289</styleUrl>
+		<Point>
+			<coordinates>35.44704048974155,33.1804442469461,621.5961393924366</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
