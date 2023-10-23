@@ -1,5 +1,9 @@
 # ShowingElementOnMap
- local map
+ local map 
+# Technology 
+kotlin 
+# Architicture 
+mvvm 
 # OverView
 
 
