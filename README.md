@@ -1,5 +1,5 @@
 # ShowingElementOnMap
- local map 
+ local map kml files and mbtail files
 # Technology 
 kotlin 
 # Architicture 
